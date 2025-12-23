@@ -367,7 +367,7 @@ pip install -r requirements.txt
 
 ## 📧 Contato
 
-**LinkedIn:** [linkedin.com/in/bettina-araujo](https://linkedin.com/in/bettinataraujo)
+**LinkedIn:** [linkedin.com/in/bettinataraujo](https://linkedin.com/in/bettinataraujo)
 
 ---
 
