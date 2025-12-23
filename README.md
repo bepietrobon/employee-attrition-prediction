@@ -200,7 +200,6 @@ O script executa automaticamente:
 project/
 ├── data/             # Dataset baixado
 ├── figures/          # 17 visualizações em alta resolução
-├── models/           # Modelo final + preprocessador
 └── reports/          # Métricas e resumo executivo
 ```
 
