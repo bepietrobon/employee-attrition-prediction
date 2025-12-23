@@ -1,0 +1,30 @@
+# ============================================================================
+# Requirements - Employee Attrition Prediction
+# ============================================================================
+# MBA Business Intelligence & Analytics (USP/ECA)
+# Autora: Bettina Pietrobon Taucer Araujo
+# ============================================================================
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Dataset Management
+kagglehub>=0.2.0
+
+# Model Persistence
+joblib>=1.3.0
+
+# Optional: Jupyter Notebook
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional: Progress bars
+tqdm>=4.65.0
